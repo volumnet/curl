@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3216a5cc66c60b4d82663620208c77a3",
+    "content-hash": "424681732bcfd55801f075c5f36da5fe",
     "packages": [
         {
             "name": "electrolinux/phpquery",
