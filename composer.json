@@ -3,6 +3,7 @@
     "description": "VolumNet implementation for CURL",
     "type": "library",
     "license": "GPL v3",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Alex V. Surnin",
