@@ -2,7 +2,7 @@
     "name": "volumnet/curl",
     "description": "VolumNet implementation for CURL",
     "type": "library",
-    "license": "GPL v3",
+    "license": "GPL-3.0-or-later",
     "version": "1.0.0",
     "authors": [
         {
